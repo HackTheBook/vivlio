@@ -4,3 +4,6 @@
 [submodule "arduino"]
 	path = arduino
 	url = git@github.com:thinkers/vivlio_arduino.git
+[submodule "bib"]
+	path = bib
+	url = git@github.com:thinkers/vivlio_bib.git
